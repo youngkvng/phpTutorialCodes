@@ -11,7 +11,7 @@
            if ($count == 5) {
                continue;
            }
-           echo $count;
+           echo $count . ",";
         }    
     ?>
 </body>
